@@ -27,7 +27,7 @@ Resources, Stack used and notable mentions:
 TODO :
 
 - Improve UI (replace bootstrap with react)
-- Voting candidates are hardcoded and limited to only two, make it dynamic
+- Voting candidates are hardcoded and limited to only two, make it dynamic by adding smart contract in contracts/
 - Prettify logs and statiscs
 - add: candiate can cast only one vote
 - write tests
