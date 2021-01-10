@@ -3,7 +3,8 @@
 This is hack built for "the python week" hackathon.
 
 check it live at https://bvs.omparikh.me
-check this roadmap for design https://github.com/hack3r-0m/bvs-tpw-hackathon/blob/main/roadmap.pdf
+
+check this [roadmap](https://github.com/hack3r-0m/bvs-tpw-hackathon/blob/main/roadmap.pdf) for design
 
 Timeline of work done: (all times are in IST)
 
