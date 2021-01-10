@@ -33,3 +33,7 @@ TODO :
 - write tests
 - shift to pm2
 - shift from ropsten testnet to mainnet
+
+OTHER APP DETIALS;
+
+- in video demonstration transaction could not be completed because i haven't received test ether (transaction is still not confimed) yet, but as it is handled by portis, it is working.
