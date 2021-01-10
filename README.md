@@ -42,3 +42,9 @@ OTHER APP DETIALS;
 - /statistics show current gas price to predict confirmation timing and other such data
 - /logs show access history
 - statistics are updated every 3 hours via python cron job
+
+HOW TO CLONE THIS REPO:
+
+- change portis dApp ID
+- add api keys of sashiDo and ethgasstation in portis.js index.js and update.py
+- run `node index.js`
