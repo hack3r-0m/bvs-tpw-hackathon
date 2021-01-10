@@ -42,6 +42,7 @@ OTHER APP DETIALS;
 - /statistics show current gas price to predict confirmation timing and other such data
 - /logs show access history
 - statistics are updated every 3 hours via python cron job
+- site might be slow because its currently unoptimized and running over 512 mb vps
 
 HOW TO CLONE THIS REPO:
 
