@@ -2,6 +2,8 @@
 
 This is hack built for "the python week" hackathon.
 
+check it live at https://bvs.omparikh.me
+
 Timeline of work done: (all times are in IST)
 
 - started researching and disvoering about sponsors of TPW(14:00 8th jan)
