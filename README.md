@@ -31,7 +31,7 @@ TODO :
 - Prettify logs and statiscs
 - add: candiate can cast only one vote
 - write tests
-- shift to pm2
+- shift to pm2 (done)
 - shift from ropsten testnet to mainnet
 
 OTHER APP DETIALS;
