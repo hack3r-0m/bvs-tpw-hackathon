@@ -41,3 +41,4 @@ OTHER APP DETIALS;
 - in video demonstration transaction could not be completed because i haven't received test ether (transaction is still not confimed, takes about 3-24 hours) yet, but as it is handled by portis, it is working.
 - /statistics show current gas price to predict confirmation timing and other such data
 - /logs show access history
+- statistics are updated every 3 hours via python cron job
