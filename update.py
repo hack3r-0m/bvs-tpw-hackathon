@@ -10,6 +10,4 @@ r2 = requests.post("https://pg-app-gbqap934o1ljag1iyc43d92z6y7cq4.scalabl.cloud/
             "X-Parse-REST-API-Key": "",
             "X-Parse-Revocable-Session": "1",
             "Content-Type": "application/json"      
-        }, json=result).json()
-
-print(r2)
+                }, json=result).json()
