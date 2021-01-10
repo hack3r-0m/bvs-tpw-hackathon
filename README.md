@@ -36,4 +36,4 @@ TODO :
 
 OTHER APP DETIALS;
 
-- in video demonstration transaction could not be completed because i haven't received test ether (transaction is still not confimed) yet, but as it is handled by portis, it is working.
+- in video demonstration transaction could not be completed because i haven't received test ether (transaction is still not confimed, takes about 3-24 hours) yet, but as it is handled by portis, it is working.
