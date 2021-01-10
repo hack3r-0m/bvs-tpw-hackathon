@@ -6,7 +6,7 @@ check it live at https://bvs.omparikh.me
 
 check this [roadmap](https://github.com/hack3r-0m/bvs-tpw-hackathon/blob/main/roadmap.pdf) for design
 
-Timeline of work done: (all times are in IST)
+TIMELINE: (all times are in IST)
 
 - started researching and disvoering about sponsors of TPW(14:00 8th jan)
 - Selected problem statement and tech stack (16:44 8th jan)
@@ -16,7 +16,7 @@ Timeline of work done: (all times are in IST)
 - Building, Editing, Testing, Debugging (since 13:10 9th jan to 10:52 10th jan)
 - Submitting links, video and other required things (11:00 10th jan)
 
-Resources, Stack used and notable mentions:
+RESOURCES, STACK AND NOTABLE MENTIONS:
 
 - VPS by linode
 - domain by namecheap
